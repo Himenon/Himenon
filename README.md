@@ -14,5 +14,12 @@ I am interested in continuous development so as not to reduce development effici
 
 <br/>
 
-![Himenon's github stats](https://github-readme-stats.vercel.app/api?username=Himenon&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs&cache_seconds=1800)
+## My products
 
+**npm library**
+
+* [Himenon/openapi-typescript-code-generator](https://github.com/Himenon/openapi-typescript-code-generator)
+
+**Google Makketplace Add-on**
+
+* [Version Ocean](https://workspace.google.com/marketplace/app/version_ocean/81621531033)
