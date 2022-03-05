@@ -1,24 +1,25 @@
 ## Hi there, I'm [Himenon](https://himenon.github.io/) 👋
 
-Frontend web developer from Japan.
+**Recent Focus**
 
-I am interested in continuous development so as not to reduce development efficiency.
-
-**Languages and Tools:**
-
-- JavaScript
-- TypeScript
-- React
-- Node.js
-- OpenAPI
+* TypeScript
+* Go Lang
+* Kubernetes
+* Envoy / Istio
+* Load Balance / Rate Limit
+* Observability
 
 <br/>
 
 ## My products
 
+**VSCode Extension**
+
+* [TypeScript Inferred TypeSafe Value Generator](https://marketplace.visualstudio.com/items?itemName=himenon.typescript-inferred-typesafe-value-generator) ([Source](https://github.com/Himenon/vscode-inferred-typesafe-value-generator))
+
 **npm library**
 
-* [Himenon/openapi-typescript-code-generator](https://github.com/Himenon/openapi-typescript-code-generator)
+* [Himenon/openapi-typescript-code-generator](https://github.com/Himenon/openapi-typescript-code-generator) ([Source](https://github.com/Himenon/openapi-typescript-code-generator))
 
 **Google Makketplace Add-on**
 
