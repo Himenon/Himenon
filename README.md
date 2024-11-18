@@ -14,6 +14,7 @@
 ## Articles
 
 * [ニコニコ生放送 WebフロントエンドのKubernetes移行ハンドブック 2022](https://dwango.github.io/nicolive-kubernetes-migration-handbook-2022/)
+* [大規模サービスのBFFサーバーをKubernetesに移行した記事で書いていないこと](https://zenn.dev/himenon/articles/0e049f65c462a1)
 
 ## 発表資料
 
